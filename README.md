@@ -1,81 +1,63 @@
-<h1 align="center">Hey 👋, I'm Alex</h1>
-<h3 align="center">Full-Stack Developer | Blockchain Enthusiast | AI Explorer</h3>
+<h1 align="center">Hi there 👋, I'm a Senior Engineer</h1>
+<h3 align="center">Full Stack Web | AI/ML | Blockchain | Systems Architecture</h3>
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💼 About Me
 
-- 🔭 I’m currently working on **a decentralized identity platform using Ethereum & zk-SNARKs**
-- 🌱 I’m diving deeper into **LLMs, LangChain, and Solidity smart contract security**
-- 💡 I love building end-to-end products — from clean frontends to scalable backends and smart contracts
-- 🧠 I’m fascinated by the intersection of **Web3 and AI**
-- 💬 Ask me about: **React, Node.js, Solidity, GPT APIs, or startup dev workflows**
-- 📫 Reach me at: [alexdev@example.com](mailto:alexdev@example.com)
-- 🌍 Portfolio: [alexdev.io](https://alexdev.io)  
-- 🧪 I also mentor and contribute to open-source AI/Blockchain projects!
+- 🧠 Senior Engineer with deep experience in full-stack web development, AI integration, and blockchain architecture
+- 🌍 I build secure, scalable, and smart applications that bridge traditional web with emerging tech
+- 🔭 Currently focused on:
+  - Autonomous agents using LangChain & OpenAI
+  - Modular smart contracts with Hardhat & Foundry
+  - High-performance SaaS platforms using Next.js, PostgreSQL, and microservices
+- 📈 Passionate about open source, clean code, and dev mentoring
 
 ---
 
-### 🚀 Tech Stack
+### 🧰 Tech Toolbox
 
-#### 💻 Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
+#### 🌐 Web Dev
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 
-#### 🧩 Frontend
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-
-#### ⚙️ Backend & DevOps
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions)
-
-#### 🔗 Blockchain
-![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=flat-square&logo=ethereum)
-![Hardhat](https://img.shields.io/badge/-Hardhat-black?style=flat-square&logo=ethereum)
-![IPFS](https://img.shields.io/badge/-IPFS-black?style=flat-square&logo=ipfs)
-
-#### 🤖 AI / ML
+#### 🧠 AI / ML
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
-![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)
-![Pinecone](https://img.shields.io/badge/-Pinecone-black?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square)
+![Pinecone](https://img.shields.io/badge/-Pinecone-1E88E5?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat-square)
+
+#### ⛓ Blockchain
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum)
+![Hardhat](https://img.shields.io/badge/-Hardhat-F7DF1E?style=flat-square)
+![Foundry](https://img.shields.io/badge/-Foundry-000000?style=flat-square)
+![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat-square)
+
+#### 🛠 DevOps / Infra
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Alex's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+- 🤖 **AgentVerse** — AI Agents platform with vector search, LangChain, OpenAI + tools ([GitHub](#))
+- ⛓️ **DeFiKit** — DeFi components and smart contract templates built in Solidity & Foundry ([GitHub](#))
+- 🧱 **StackForge** — A modern SaaS starter with full stack best practices (Next.js + Prisma + tRPC) ([GitHub](#))
 
 ---
 
-### 🧑‍🚀 Fun Facts
+### 📫 Let's Connect
 
-- 🎸 I play guitar and produce ambient music in my spare time
-- 📚 I'm always reading about tech philosophy and open-source culture
-- 🏔️ I love hiking and working remotely from scenic places
+- ✉️ Email: [you@example.com](mailto:vladyslavchaplytskyi@gmail.com)
 
 ---
 
-### 🛠️ Featured Projects
-
-- 🔐 [zkID](https://github.com/yourusername/zkid) – Privacy-preserving identity on Ethereum using zk-SNARKs
-- 🤖 [AI Dev Companion](https://github.com/yourusername/aidevcompanion) – VSCode extension with embedded LLM pair programming
-- 🧱 [BlockStarter](https://github.com/yourusername/blockstarter) – Starter template for full-stack dApps with Hardhat + Next.js
-
----
-
-_Thanks for stopping by! ⭐_  
+_Thanks for stopping by — let's build something great!_
