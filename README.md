@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 Frontend: Angular, AngularJS, React/React Native, Next.js, Vue.js, Nuxt.js <br>- 👨‍💻 Backend: Express, Django, Laravel, Spring Boot, Flask, FastAPI<br>- 💬 Database: MongoDB, PostgreSQL, Redis, MySQL, GraphQL, BigQuery, Amazon Redshift<br>- 📫 Languages: Rust, Python, Go, JavaScript/TypeScript, C/C++, Java, PHP</p>
+<p align="left">- 🔭 Frontend: React/React Native, Next.js, Vue.js, Nuxt.js, Angular, AngularJS, Svelte <br>- 👨‍💻 Backend: Express, Django, Laravel, Spring Boot, Flask, FastAPI<br>- 💬 Database: MongoDB, PostgreSQL, Redis, MySQL, GraphQL, BigQuery, Amazon Redshift<br>- 📫 Languages: Rust, Python, Go, JavaScript/TypeScript, C/C++, Java, PHP</p>
 
 ###
 
