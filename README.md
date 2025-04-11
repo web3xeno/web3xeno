@@ -56,7 +56,7 @@
 
 ### 📫 Let's Connect
 
-- ✉️ Email: [you@example.com](mailto:vladyslavchaplytskyi@gmail.com)
+- ✉️ Email: [vladyslavchaplytskyi@gmail.com](mailto:vladyslavchaplytskyi@gmail.com)
 
 ---
 
